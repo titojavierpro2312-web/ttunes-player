@@ -20,3 +20,9 @@ To use tTunes, follow these steps:
 3. Once the HTML file is ready, you can use tTunes as usual.
 
 4. Enjoy your audio!
+
+<h1 align="center"> Screenshots </h1>
+<img width="965" height="639" alt="Captura desde 2026-07-05 18-35-42" src="https://github.com/user-attachments/assets/c76122eb-5c75-42ce-942a-89b65cdc418e" />
+<img width="965" height="639" alt="Captura desde 2026-07-05 18-35-24" src="https://github.com/user-attachments/assets/e0d28194-06c1-4b7b-9ef3-98bb67a4eadc" />
+<img width="965" height="639" alt="Captura desde 2026-07-05 18-33-15" src="https://github.com/user-attachments/assets/ebe26439-705a-46aa-9f8f-699d5057772b" />
+
